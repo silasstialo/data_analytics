@@ -27,6 +27,6 @@ Each project is designed to highlight core steps in the **data analytics process
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/data_analytics.git
+git clone git@github.com:silasstialo/data_analytics.git
 cd data_analytics
 
